@@ -1,0 +1,2 @@
+alias gmail="git config user.email"
+alias gname="git config user.name"

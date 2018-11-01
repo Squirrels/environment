@@ -1,0 +1,6 @@
+# Dev directory
+alias dev="cd ~/dev"
+# Config directory
+alias jconf="cd ~/.jota_config"
+# Work directory
+alias work="cd ~/work"
